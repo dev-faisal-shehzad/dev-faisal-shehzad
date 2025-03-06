@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-faisal-shehzad" alt="dev-faisal-shehzad" /></a> </p>
 
-- 🔭 I’m currently working on [MapleHR](https://maplehr.io/)
+- 🔭 I’m currently working on [HappyTenant]([https://maplehr.io/](https://happytenant.io/))
 
 - 🌱 I’m currently learning **Nodejs**
 
