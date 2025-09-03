@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faisal Shehzad</h1>
-<h3 align="center">A passionate software engineer</h3>
+<h3 align="center">A passionate senior software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dev-faisal-shehzad&label=Profile%20views&color=0e75b6&style=flat" alt="dev-faisal-shehzad" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [HappyTenant]([https://maplehr.io/](https://happytenant.io/))
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **Rails, Node, Express, React**
 
